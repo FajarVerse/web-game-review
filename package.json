@@ -2,7 +2,7 @@
   "name": "web-game-review",
   "private": true,
   "version": "0.0.0",
-  "homepage": "/home", 
+  "homepage": "https://gifarfajar321.github.io/web-game-review/",
   "type": "module",
   "scripts": {
     "dev": "vite",
